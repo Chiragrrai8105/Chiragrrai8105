@@ -2,7 +2,7 @@
 - 👀 I’m interested in Dance
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on Artificaial intelligence
-- 📫 How to reach me ...
+- 📫 How to reach me Email:-chiragrrai44@gmail.com
 - 😄 Pronouns: he\him
 - ⚡ Fun fact: ...
 
