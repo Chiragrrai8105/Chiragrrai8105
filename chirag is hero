@@ -12,7 +12,7 @@ def astarAlgo(start_node,stop_node):
             print("Path does not exist")
             return None
         if n==stop_node:
-            path
+            path=[]
             while parents[n]!=n:
                 path.append(n)
                 n=parents[n]
